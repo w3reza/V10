@@ -1,4 +1,4 @@
-# PR: PHPIIP01909 Assignment due from ChainTech Network
+# PR: PHPIIP01909 : Assignment from ChainTech Network
 
 ## User Account Management Application
 This Laravel application is allow users to Registration and manage their account. It includes basic functionalities such as user registration, login, and a user profile page where users can view and edit their account information.
