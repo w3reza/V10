@@ -4,7 +4,7 @@
 This Laravel application is allow users to Registration and manage their account. It includes basic functionalities such as user registration, login, and a user profile page where users can view and edit their account information.
 
 # Features
-- User Registration: Users can create a new account by providing necessary details.
+- User Registration: Users can registration as a new account by providing necessary details.
 -  User Login: Existing users can log in securely using their credentials.
 -  Account Management: Users have access to a profile page where they can view and edit their account information.
 
