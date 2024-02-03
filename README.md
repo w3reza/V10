@@ -47,10 +47,6 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
-# Contact Me
-w3reza.ju@gmail.com
-WhatsApp: +8801717654798
-
 ## Acknowledgments
 Laravel Documentation: https://laravel.com/docs
  Bootstrap Documentation: https://getbootstrap.com/docs
